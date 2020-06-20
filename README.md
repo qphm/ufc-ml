@@ -1,4 +1,4 @@
-# UFC Machine Learning
+# Machine Learning with UFC
 ![](https://middleeasy.com/wp-content/uploads/2018/10/Conor-Mcgregor-Georges-St-Pierre.jpg)
 
 ## Introduction
